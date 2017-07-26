@@ -1,0 +1,9 @@
+server:
+  context-path: /girl
+  port: 8888
+gril: 
+  cup: B
+  age: 28 
+kk: "heaven:${gril.cup}"
+
+  

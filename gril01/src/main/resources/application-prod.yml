@@ -1,0 +1,6 @@
+server:
+  context-path: /girl
+  port: 8088
+gril: 
+  cup: F
+  age: 30 
